@@ -1,0 +1,7 @@
+application:
+  name: ${APP_NAME:my-app}
+  version: ${APP_VERSION:0.0.1}
+  description: ${APP_DESCRIPTION:My App}
+  teacher:
+    cache:
+      enabled: false
