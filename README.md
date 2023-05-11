@@ -1,0 +1,5 @@
+# SCHOOL
+
+## TODO
+
+- set configuartion
